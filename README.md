@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MongoDb**
 
-- 👨‍💻 All of my projects are available at [https://flip-shopping-clone.netlify.app/](https://flip-shopping-clone.netlify.app/)
+- 👨‍💻 My projects are available at [Food Delivery App ](http://18.183.86.43:5000/)
 
 - 💬 Ask me about **React, Java, JavaScript**
 
