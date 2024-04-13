@@ -3,17 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicky8180&label=Profile%20views&color=0e75b6&style=flat" alt="vicky8180" /> </p>
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vicky8180" alt="vicky8180" /></a> </p>
+
 
 - 🌱 I’m currently learning **MongoDb**
 
-- 👨‍💻 My projects are available at [Food Delivery App ](http://18.183.86.43:5000/)
+- 👨‍💻 My Latest projects is [ Live here ](http://18.183.86.43:5000/](https://astrologywithanoop.netlify.app/))
 
 - 💬 Ask me about **React, Java, JavaScript**
 
 - 📫 How to reach me **vyadav99x1@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MgU4wod_t0bEyt8daulfV_t0m87p82gz/view?usp=share_link](https://drive.google.com/file/d/1MgU4wod_t0bEyt8daulfV_t0m87p82gz/view?usp=share_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
