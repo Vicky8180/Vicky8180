@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MongoDb**
 
-- 👨‍💻 My Latest projects is [ Live here ](http://18.183.86.43:5000/](https://astrologywithanoop.netlify.app/))
+- 👨‍💻 My Latest projects is [ Live here ](https://astrologywithanoop.netlify.app/)
 
 - 💬 Ask me about **React, Java, JavaScript**
 
